@@ -77,7 +77,7 @@ We have already created the `.env` file for you with your API key. You can verif
 
 It should look like this:
 ```env
-GEMINI_API_KEY=AIzaSyBOv4CYTpfv...
+GEMINI_API_KEY=INSERT YOUR API KEY HERE
 ```
 
 ### 3. Launch with Docker Compose
