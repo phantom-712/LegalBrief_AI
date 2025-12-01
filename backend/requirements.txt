@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-multipart
+qdrant-client
+sentence-transformers
+google-generativeai
+pypdf
+langchain-text-splitters
+python-dotenv
+httpx
+networkx
